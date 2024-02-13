@@ -18,6 +18,20 @@ Errors solved:
 
 Solution:
 
-<img width="1134" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/32be7058-2424-4e5c-b2ad-fb8d407b60c4">
+   <img width="1134" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/32be7058-2424-4e5c-b2ad-fb8d407b60c4">
 
-2. 
+2. <img width="1000" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/9c589935-b2d8-4776-9217-2e5e56aba582">
+   <img width="1002" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/e1722d96-a353-4a07-91f8-3f74aadbe2f0">
+
+Solution:
+
+   <img width="999" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/ec3de0c3-40f7-41ee-8c83-a80afacb151e">
+
+3. <img width="993" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/eb516014-0354-44f0-8788-7dffceddac93">
+   <img width="987" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/e62aa5b3-f880-49c9-b5ea-4af9ae742340">
+
+Solution:
+
+   <img width="989" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/b66a33b2-9aa1-43fe-a08d-7438f6c91587">
+
+
