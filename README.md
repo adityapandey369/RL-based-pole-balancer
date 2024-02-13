@@ -14,5 +14,10 @@ The reinforcement learning agent is developed using Keras RL (Reinforcement Lear
 
 
 Errors solved:
-<img width="1140" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/7de74f79-88c0-4a27-8bf6-14471fc20893">
+1. <img width="1140" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/7de74f79-88c0-4a27-8bf6-14471fc20893">
 
+Solution:
+
+<img width="1134" alt="image" src="https://github.com/adityapandey369/RL-based-pole-balancer/assets/116642258/32be7058-2424-4e5c-b2ad-fb8d407b60c4">
+
+2. 
